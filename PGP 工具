@@ -15,3 +15,17 @@
 链接：https://www.zhihu.com/question/34027880/answer/58443873
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+============================================
+简介： Gpg4win是一套文件或email加密解密的安全方案。
+
+Gpg4win - a secure solution for file and email encryption.
+Gpg4win (GNU Privacy Guard for Windows) is Free Software and can be installed with just a few mouse clicks
+
+安装：
+
+首先，从GPG4win官方网站下载安装程序  https://www.gpg4win.org/
+
+安装之后，运行kleopatra.exe，新建密钥对（GPG4Win是非对称加密，密钥对包含公钥和私钥，名称和email地址任意设定即可，具体流程网上有很多教程，可自行查找）。
+
+下图中，Henry++的密钥，是simplewall官方提供的公钥，使用导入功能即可使用。
