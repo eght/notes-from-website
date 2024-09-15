@@ -1,0 +1,17 @@
+如果按照题主所说“PGP 工具”，那严格来说只有 PGP 本身了。但是要是说是支持 OpenPGP (RFC 4880) 这个标准的，
+选项就有很多了。有正常等级名气（也就是能搜出第一页）支援 OpenPGP 的 Windows 软件如下所列：
+自由软件 GnuPG (GPG)，如 GNU 大部分软件的习惯那样不提供二进制下载。
+不过首页上推荐了 Gpg4win，还带着一个 GUI 挺好的。
+整个套件的组件包括：GnuPG 本体，使用 Stable 分支GPA 
+另一个证书管理器GpgOL Outlook 
+加密拓展GpgEX Explorer 
+加密菜单Claws Mail 
+一整个邮件客户端Kleopatra 
+证书管理器Compendium 
+帮助文档集，不过只有英语和德语的。
+以上除了 GnuPG 全都可选安装。安装包 30M，去掉后两项的 Light 安装包 14M，只留第一项 Vanilla 安装包 4M。
+
+作者：李蝗
+链接：https://www.zhihu.com/question/34027880/answer/58443873
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
